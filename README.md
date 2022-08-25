@@ -18,6 +18,6 @@
     - two different designs for delete and submit buttons
 
 
-![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/To-Do%List/img/To-Do%List.png)
+![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/To-Do%20List/img/To-Do%20List.PNG)
 
-![Screenshot-2](https://github.com/itsarraj/JavaScripts-Projects/blob/master/To-Do%List/img/To-Do%List%With%Tasks.png)
+![Screenshot-2](https://github.com/itsarraj/JavaScripts-Projects/blob/master/To-Do%20List/img/To-Do%20List%20With%20Tasks.PNG)
