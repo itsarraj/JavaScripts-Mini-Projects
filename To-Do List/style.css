@@ -1,7 +1,15 @@
-    body {
-        background-image: linear-gradient(to bottom right, rgb(58, 168, 68), rgb(65, 227, 217));
-        background-size: auto;
+html{
+    background-image: linear-gradient(to  right, rgb(58, 168, 68), rgb(65, 227, 217));
+  
 
+
+}
+  body {
+        background-image: linear-gradient(to  right, rgb(58, 168, 68), rgb(65, 227, 217)) ;
+        top: 0; 
+        left: 0; 
+	    min-width: 100%;
+        min-height: 100%;
     }
      
 
