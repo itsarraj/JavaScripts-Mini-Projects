@@ -60,7 +60,7 @@ if(passwordValue === '') {
     setError(password, 'Password is required')
 }
 else if (passwordValue.length < 10) {
-    setError(password, 'Password must be greater or equal 10 ch.')
+    setError(password, 'Password must be greater or equal 10 characters')
 }
 else {
     setSuccess(password)
