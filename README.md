@@ -24,7 +24,6 @@
 
 ## 3.JS SignUp Page
     - Made with html, css & javascript 
-    - added a digital font
     - Buttons Styled with css
     - Entire page styled with css 
     - two different designs for form and submit buttons
