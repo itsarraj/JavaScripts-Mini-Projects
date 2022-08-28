@@ -36,11 +36,11 @@
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Js%20SignUp%20Page/img/JS%20SignUp%20Page.PNG)
  
 
-## 3.JS SignUp Page
+## 3.Javascript Calculator
     - Made with html, css & javascript 
     - Buttons Styled with css
-    - Entire page styled with css 
-    - two different designs for form and submit buttons
+    - JavaScripts logics and mostly used in this project  
+    - two different designs for for button and result section
 
 ### Screensorts Below
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Javascript%20Calculator/img/Calc.PNG)
