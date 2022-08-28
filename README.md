@@ -30,3 +30,4 @@
     - two different designs for form and submit buttons
 
 ![Screenshot-2](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Js%20SignUp%20Page/img/JS%20SignUp%20Page.PNG)
+ 
