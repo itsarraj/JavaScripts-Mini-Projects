@@ -45,3 +45,6 @@
 ### Screensorts Below
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Javascript%20Calculator/img/Calc.PNG)
 
+## 5. Form Validator
+    - Under Progress
+    
