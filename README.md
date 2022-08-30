@@ -36,7 +36,7 @@
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Js%20SignUp%20Page/img/JS%20SignUp%20Page.PNG)
  
 
-## 3.Javascript Calculator
+## 4.Javascript Calculator
     - Made with html, css & javascript 
     - Buttons Styled with css
     - JavaScripts logics and mostly used in this project  
