@@ -43,8 +43,14 @@
     - two different designs for for button and result section
 
 ### Screensorts Below
+
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Javascript%20Calculator/img/Calc.PNG)
 
 ## 5. Form Validator
-    - Under Progress
-    
+    - Made with html, css & javascript 
+    - JavaScripts logics enhance the page reponse
+
+
+### Screensorts Below
+
+![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/form%validator/img/JavascriptForm.PNG)
