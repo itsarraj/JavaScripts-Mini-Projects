@@ -25,7 +25,7 @@
 ![Screenshot-2](https://github.com/itsarraj/JavaScripts-Projects/blob/master/To-Do%20List/img/To-Do%20List%20With%20Tasks.PNG)
 
 
-## 3.JS SignUp Page
+## 3. JS SignUp Page
     - Made with html, css & javascript 
     - Buttons Styled with css
     - Entire page styled with css 
@@ -36,7 +36,7 @@
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Js%20SignUp%20Page/img/JS%20SignUp%20Page.PNG)
  
 
-## 4.Javascript Calculator
+## 4. Javascript Calculator
     - Made with html, css & javascript 
     - Buttons Styled with css
     - JavaScripts logics and mostly used in this project  
