@@ -42,7 +42,15 @@
     - Validations : All fields
     - Modern , responsive UI
 
-
 ### Screensorts Below
 
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Form%20validator/img/RegistrationForm.PNG)
+
+## 6. Animesh Raj Music Playlist
+    - Aesthetic Designed with CSS
+    - Can Change Progress of Song 
+    - Can Change Songs
+
+### Screensorts Below
+
+![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Music%Player/img/musicplayer.PNG)
