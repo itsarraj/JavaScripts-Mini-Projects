@@ -53,4 +53,4 @@
 
 ### Screensorts Below
 
-![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/form%20validator/img/RegistrationForm.PNG)
+![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Form%20validator/img/RegistrationForm.PNG)
