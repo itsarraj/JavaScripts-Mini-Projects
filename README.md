@@ -12,8 +12,7 @@
 ## 2. To-DO List 
     - Lightweight Responsive UI 
     - Modern Responsive UI for Buttons 
-    -  
-
+    
 ### Screensorts Below
 
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/To-Do%20List/img/To-Do%20List.PNG)
