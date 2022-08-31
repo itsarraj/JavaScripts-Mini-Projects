@@ -9,7 +9,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 // Song Titles
-const songs = ['walk' , 'combined' , 'past'];
+const songs = ['Ehrling Dance With Me' , 'Ikson Last Summer' , 'Masked Wolf Astronaut In The Ocean'];
 
 // Keep track of song 
 let songIndex = 0;
@@ -63,7 +63,7 @@ function updateProgress(e){
 // Set Progress bar
 function setProgress(e){
     const width = this.clientWidth;
-    const clickX = e.offsetX;
+    const click = e.offsetX;
     const duration = audio.duration;
 
     audio.currentTime = (click / width)*duration;

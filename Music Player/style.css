@@ -33,7 +33,7 @@ body {
 
 .img-container::after {
     content: '';
-    background-color: rgb(255, 255, 255);
+    background-color: #fff;
     border-radius: 50%;
     position: absolute;
     bottom: 100%;
@@ -108,28 +108,17 @@ body {
     position: absolute;
     top: 0;
     left: 20px;
-    width: calc(100% - 40%);
+    width: calc(100% - 40px);
     padding: 10px 10px 10px 150px;
     opacity: 0;
     transform: translateY(0%);
     transition: transform 0.3s ease-in , opacity 0.3s ease-in;
-    -webkit-border-radius: 15px 15px 0 0;
-    -moz-border-radius: 15px 15px 0 0;
-    -ms-border-radius: 15px 15px 0 0;
-    -o-border-radius: 15px 15px 0 0;
-    -webkit-transform: translateY(0%);
-    -moz-transform: translateY(0%);
-    -ms-transform: translateY(0%);
-    -o-transform: translateY(0%);
-    -webkit-transition: transform 0.2s ease-in, opacity 0.2s ease-in;
-    -moz-transition: transform 0.2s ease-in, opacity 0.2s ease-in;
-    -ms-transition: transform 0.2s ease-in, opacity 0.2s ease-in;
-    -o-transition: transform 0.2s ease-in, opacity 0.2s ease-in;
+    z-index: 0;
 }
 
 .music-container.play .music-info {
     opacity: 1;
-    transform: translate(-100%);
+    transform: translateY(-100%);
 }
 
 .music-info h4  {
@@ -145,7 +134,7 @@ body {
     width: 100%;
 }
 
-.prgress {
+.progress {
     background-color: #fe8daa;
     border-radius: 5px;
     height: 100%;
