@@ -1,9 +1,8 @@
 # JavaScripts-Projects
 
 ## 1. Stopwatch 
-    - Made with html, css & javascript 
-    - added a digital font
-    - Buttons Styled with css
+    - Buttons UI are Simple
+    - Digital font for Modern and Simple UI
 
 ### Screensorts Below
 
@@ -11,12 +10,9 @@
 
 
 ## 2. To-DO List 
-    - Made with html, css & javascript 
-    - added a digital font
-    - Buttons Styled with css
-    - Entire page styled with css 
-    - css is mostly used in designing buttons 
-    - two different designs for delete and submit buttons
+    - Lightweight Responsive UI 
+    - Modern Responsive UI for Buttons 
+    -  
 
 ### Screensorts Below
 
