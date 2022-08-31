@@ -53,4 +53,4 @@
 
 ### Screensorts Below
 
-![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Music%Player/img/musicplayer.PNG)
+![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Music%20Player/img/musicplayer.PNG)
