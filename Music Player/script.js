@@ -4,16 +4,15 @@ const prevBtn = document.getElementById('prev');
 const nextBtn = document.getElementById('next');
 const audio = document.getElementById('audio');
 const progress = document.getElementById('progress');
-const progrssContainer = document.getElementById('progress-container');
+const progressContainer = document.getElementById('progress-container');
 const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 // Song Titles
 const songs = ['walk' , 'combined' , 'past'];
 
-
 // Keep track of song 
-let songIndex = 2;
+let songIndex = 0;
 
 // Initially long song details into DOM
 loadSong(songs[songIndex]);
@@ -30,16 +29,14 @@ function playSong() {
     musicContainer.classList.add('play');
     playBtn.querySelector('i.fas').classList.remove('fa-play');
     playBtn.querySelector('i.fas').classList.add('fa-pause');
-    
     audio.play();
 }
 
 //Pause song
 function pauseSong() {
-    musicContainer.classList.add('play');
-    playBtn.querySelector('i.fas').classList.add('fa-play');
+    musicContainer.classList.remove('play');
     playBtn.querySelector('i.fas').classList.remove('fa-pause');
-    
+    playBtn.querySelector('i.fas').classList.add('fa-play');
     audio.pause();
 }
 
@@ -59,7 +56,17 @@ function prevSong() {
 // Update progress bar
 function updateProgress(e){
     const { duration , currentTime} = e.srcElement;
-    console.log(duration);
+    const progressPercent = (currentTime / duration)*100;
+    progress.style.width = `${progressPercent}%`;
+}
+
+// Set Progress bar
+function setProgress(e){
+    const width = this.clientWidth;
+    const clickX = e.offsetX;
+    const duration = audio.duration;
+
+    audio.currentTime = (click / width)*duration;
 }
 
 // Next Song
@@ -91,6 +98,12 @@ nextBtn.addEventListener('click' , nextSong);
 
 //Time/song Update
 audio.addEventListener('timeupdate' , updateProgress);
+
+//Click on Progress bar
+progressContainer.addEventListener('click' , setProgress);
+
+// Songs Ends
+audio.addEventListener('ended',nextSong);
 
 
 
