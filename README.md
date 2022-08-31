@@ -26,9 +26,8 @@
 
 
 ## 3. JS SignUp Page
-    - Made with html, css & javascript 
-    - Buttons Styled with css
-    - Entire page styled with css 
+    - Modern , light & responsive UI
+    - Email & Password Validations 
     - two different designs for form and submit buttons
 
 ### Screensorts Below
@@ -37,18 +36,16 @@
  
 
 ## 4. Javascript Calculator
-    - Made with html, css & javascript 
-    - Buttons Styled with css
-    - JavaScripts logics and mostly used in this project  
-    - two different designs for for button and result section
+    - A simple, light and responsive UI
+    - Arithmetic Calculations can be carried out easily 
 
 ### Screensorts Below
 
 ![Screenshot-1](https://github.com/itsarraj/JavaScripts-Projects/blob/master/Javascript%20Calculator/img/Calc.PNG)
 
 ## 5. Form Validator
-    - Made with html, css & javascript 
-    - JavaScripts logics enhance the page reponse
+    - Validations : All fields
+    - Modern , responsive UI
 
 
 ### Screensorts Below
